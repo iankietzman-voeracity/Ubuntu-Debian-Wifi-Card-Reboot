@@ -5,6 +5,8 @@ ifconfig is required on your system to successfully run this script. If you don'
 
 ```sudo apt install net-tools```
 
-Just clone or copy the script and run it. File permissions and script aliasing is up to you, running the script directly with sudo should be fine.
+Just clone or copy the script, read the comments (you may need to change one or two variable values inside), and run it. File permissions and script aliasing is up to you, running the script directly with sudo should be fine.
+
+
 
 
